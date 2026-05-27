@@ -56,7 +56,7 @@
 
 # 🛠️ โหมดการสั่งงานพิเศษ (AI Execution Commands)
 โปรเจกต์นี้มีคู่มือการตรวจสอบโค้ดฉบับเต็ม (Master SOP) อยู่ที่ไฟล์:
-👉 `docs/Code Reviewer สำหรับโปรเจกต์ "LMDS".md`
+👉 `docs/Code Reviewer สำหรับโปรเจกต์ LMDS.md`
 เมื่อ User พิมพ์คำสั่งเหล่านี้ ให้คุณดึงกฎจาก SOP มาบังคับใช้และตอบกลับตาม Format ที่กำหนดทันที:
 - `[CMD: BUGHUNT]` = สแกนโค้ดหาความเสี่ยง Critical & Performance
 - `[CMD: REVIEW15]` = ประเมินตามกฎ 15 Clean Rules อย่างละเอียด
